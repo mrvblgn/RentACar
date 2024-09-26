@@ -1,0 +1,14 @@
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/bin/Debug/net8.0/RentACar
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/bin/Debug/net8.0/RentACar.deps.json
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/bin/Debug/net8.0/RentACar.runtimeconfig.json
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/bin/Debug/net8.0/RentACar.dll
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/bin/Debug/net8.0/RentACar.pdb
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/RentACar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/RentACar.AssemblyInfoInputs.cache
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/RentACar.AssemblyInfo.cs
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/RentACar.csproj.CoreCompileInputs.cache
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/RentACar.dll
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/refint/RentACar.dll
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/RentACar.pdb
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/RentACar.genruntimeconfig.cache
+/Users/mervebilgin/RiderProjects/RentACar/RentACar/obj/Debug/net8.0/ref/RentACar.dll
